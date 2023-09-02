@@ -16,7 +16,7 @@ function App() {
         <Card title="Python" src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" prag="This is related to python languagge which is widely used in the world " btn="Go to Python" />
         <Card />
 
-        <Card title="Ruby" src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" prag="This is related to ruby languagge which is widely used in the world" btn="Go to R" />
+        <Card title="Ruby and R" src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" prag="This is related to ruby languagge which is widely used in the world" btn="Go to R" />
         <Card />
 
 
